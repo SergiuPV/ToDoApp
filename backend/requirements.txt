@@ -1,0 +1,9 @@
+pudb
+ipython
+mysqlclient
+django
+django-mysql
+django-filter
+django-cors-headers
+djangorestframework
+djangorestframework_simplejwt

@@ -1,0 +1,6 @@
+export const GET_TODO = 'GET_TODO';
+export const GET_TODO_SUCCESS = 'GET_TODO_SUCCESS';
+export const GET_TODO_FAILURE = 'GET_TODO_FAILURE';
+export const TODO_POST = 'TODO_POST';
+export const TODO_POST_SUCCESS = 'TODO_POST_SUCCESS';
+export const TODO_POST_FAILURE = 'TODO_POST_FAILURE';
